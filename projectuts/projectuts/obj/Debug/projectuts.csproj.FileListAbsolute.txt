@@ -1,0 +1,9 @@
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\bin\Debug\projectuts.exe.config
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\obj\Debug\projectuts.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\bin\Debug\projectuts.exe
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\bin\Debug\projectuts.pdb
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\obj\Debug\projectuts.exe
+C:\Hani\smt 2\progamming\uts\projectuts\projectuts\obj\Debug\projectuts.pdb
+C:\Hani\smt 2\Pemrograman\uts\projectuts\projectuts\bin\Debug\projectuts.exe.config
+C:\Hani\smt 2\Pemrograman\uts\projectuts\projectuts\obj\Debug\projectuts.exe
+C:\Hani\smt 2\Pemrograman\uts\projectuts\projectuts\obj\Debug\projectuts.pdb
